@@ -1,0 +1,9 @@
+{
+    "domain": "fixi",
+    "name": "Fixi Integration",
+    "version": "1.0.0",
+    "documentation": "https://github.com/ping-localhost/fixi",
+    "requirements": ["requests"],
+    "codeowners": ["@ping-localhost"],
+    "loggers": ["custom_components.fixi"]
+}
