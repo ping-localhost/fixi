@@ -4,6 +4,8 @@
     "version": "1.0.0",
     "documentation": "https://github.com/ping-localhost/fixi",
     "requirements": ["requests"],
+    "dependencies": [],
+    "iot_class": "local_polling",
     "codeowners": ["@ping-localhost"],
     "loggers": ["custom_components.fixi"]
 }
